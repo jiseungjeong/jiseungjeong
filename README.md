@@ -2,7 +2,7 @@
 
 ### Jiseung Jeong
 
-systems and machine learning, somewhere in between.
+systems and machine learning.
 
 UNIST · Ubiquitous AI Lab
 
