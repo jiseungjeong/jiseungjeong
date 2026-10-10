@@ -1,19 +1,11 @@
-### Hi there 👋
+<div align="center">
 
-**jiseungjeong/jiseungjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Jiseung Jeong
 
-Here are some ideas to get you started:
+making models small enough to live on the edge.
 
-- 🔭 I’m currently in UNIST.
-- 🌱 I’m currently learning C/C++ and Computer Systems.
-- 📫 How to reach me: wjdwltmd1151@unist.ac.kr or wjdwltmd1151@gmail.com
+UNIST · Ubiquitous AI Lab
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-c_language-659AD2?style=for-the-badge&logo=c&logoColor=white"/></a>
+[jiseungjeong.com](https://jiseungjeong.com) · [mail](mailto:wjdwltmd1151@unist.ac.kr)
 
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: AI, C/C++, 
--->
+</div>
