@@ -2,7 +2,7 @@
 
 ### Jiseung Jeong
 
-making models small enough to live on the edge.
+systems and machine learning, somewhere in between.
 
 UNIST · Ubiquitous AI Lab
 
